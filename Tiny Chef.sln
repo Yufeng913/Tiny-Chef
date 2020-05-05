@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0E084AB1-5D6B-3819-35AA-1280AABC2902}") = "Tiny Chef", "Assembly-CSharp.csproj", "{614E0D46-E6A0-2EBC-B2F6-960DABFFE0B6}"
+EndProject
+Project("{0E084AB1-5D6B-3819-35AA-1280AABC2902}") = "Tiny Chef", "Assembly-CSharp-Editor.csproj", "{98C8D584-89C3-D395-BFFB-ADF39007875A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614E0D46-E6A0-2EBC-B2F6-960DABFFE0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614E0D46-E6A0-2EBC-B2F6-960DABFFE0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614E0D46-E6A0-2EBC-B2F6-960DABFFE0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614E0D46-E6A0-2EBC-B2F6-960DABFFE0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C8D584-89C3-D395-BFFB-ADF39007875A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C8D584-89C3-D395-BFFB-ADF39007875A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C8D584-89C3-D395-BFFB-ADF39007875A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C8D584-89C3-D395-BFFB-ADF39007875A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

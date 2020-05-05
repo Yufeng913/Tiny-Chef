@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 3ae0d81210e4e1f42a4abf9f8ea54650
+timeCreated: 1457902777
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blockOne: {instanceID: 0}
+  - blockTwo: {instanceID: 0}
+  - blockThree: {instanceID: 0}
+  - blockFour: {instanceID: 0}
+  - blockFive: {fileID: 138968, guid: 09a3dce04f2550b469358e978bcdf21b, type: 2}
+  - blockSix: {fileID: 119126, guid: 274114bc823342c42a4f66aca270d045, type: 2}
+  - blockSeven: {fileID: 196816, guid: f72ce4ccfac22cd4b9d242b9e0acf6ae, type: 2}
+  - blockEight: {fileID: 183496, guid: 780516aff3b86154f87adb5c40742228, type: 2}
+  - CUblockFive: {fileID: 132506, guid: f6b86c419db0d0749aaccbb968861cd7, type: 2}
+  - CUblockSix: {fileID: 195630, guid: 83701c9e452f6d04cbaa707eb5f01ab6, type: 2}
+  - CUblockSeven: {fileID: 193480, guid: ef66da07bd53ddc4e911836653ee267f, type: 2}
+  - CUblockEight: {fileID: 170172, guid: 3b571ea2b028478439275725fe5299cd, type: 2}
+  - plate: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

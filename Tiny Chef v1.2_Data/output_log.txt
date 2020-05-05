@@ -1,0 +1,55 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     3839 MB
+FMOD failed to initialize the output device, attempting to initialize the null output.
+ 
+(Filename:  Line: 1186)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Betty\Desktop\TAI THIGH\Tiny Chef\Tiny Chef v1.2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.619017 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.253724 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 0.209757 ms (FindLiveObjects: 0.027501 ms CreateObjectMapping: 0.014449 ms MarkObjects: 0.157551 ms  DeleteObjects: 0.009322 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519732 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.213020 ms (FindLiveObjects: 0.018178 ms CreateObjectMapping: 0.010254 ms MarkObjects: 0.177594 ms  DeleteObjects: 0.006525 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.517867 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 0.226071 ms (FindLiveObjects: 0.014916 ms CreateObjectMapping: 0.010254 ms MarkObjects: 0.196705 ms  DeleteObjects: 0.003729 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.485238 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.216283 ms (FindLiveObjects: 0.020509 ms CreateObjectMapping: 0.010254 ms MarkObjects: 0.178060 ms  DeleteObjects: 0.006991 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2050 -> priority: 1 
